@@ -1,8 +1,8 @@
-# Ejercicios para poner a prueba tus conocimientos de la lección: Css grid container
+# Ejercicios para poner a prueba tus conocimientos de la lección: Pseudoclases y Pseudoelementos
 
 **¡Desafía tus habilidades CSS!**
 
-Estás a punto de sumergirte en un conjunto de ejercicios prácticos diseñados para poner a prueba tus conocimientos sobre Css grid container en CSS. A través de estos desafíos, fortalecerás tu comprensión de cómo estructurar y organizar el contenido de una página web de manera efectiva y atractiva.
+Estás a punto de sumergirte en un conjunto de ejercicios prácticos diseñados para poner a prueba tus conocimientos sobre Pseudoclases y Pseudoelementos en CSS. A través de estos desafíos, fortalecerás tu comprensión de cómo estructurar y organizar el contenido de una página web de manera efectiva y atractiva.
 
 **¿Are you ready para demostrar tu dominio? ¡Manos a la obra!**
 
@@ -29,37 +29,37 @@ Estás a punto de sumergirte en un conjunto de ejercicios prácticos diseñados 
 
 ## Lista de Ejercicios
 
-### Ejercicio # 1: Cuadrícula Básica
-Crea un contenedor grid con 3 columnas y 2 filas. Coloca 6 divs dentro del contenedor, cada uno con un color de fondo diferente.
+### Ejercicio # 1: Botón Interactivo
+Crea un botón que cambie de color al pasar el mouse por encima y se oscurezca al hacer clic.
 
-### Ejercicio # 2: Galería de Imágenes con fr
-Diseña una galería de imágenes con 4 columnas, donde la segunda columna sea el doble de ancha que las demás.
+### Ejercicio # 2: Enlaces Personalizados
+Diseña enlaces que tengan un color diferente cuando no han sido visitados, cuando han sido visitados y cuando se pasa el mouse por encima.
 
-### Ejercicio # 3: Diseño de Blog con minmax()
-Crea un diseño de blog con un encabezado, contenido principal, barra lateral y pie de página. El contenido principal debe tener un ancho mínimo de 300px y máximo de 800px.
+### Ejercicio # 3: Lista con Viñetas Personalizadas
+Crea una lista desordenada donde cada elemento tenga una viñeta personalizada (por ejemplo, un emoji) antes del texto.
 
-### Ejercicio # 4: Galería Responsiva con repeat()
-Diseña una galería de imágenes que muestre 2 imágenes por fila en dispositivos móviles y 4 en pantallas más grandes.
+### Ejercicio # 4: Campo de Formulario con Placeholder Estilizado
+Diseña un campo de entrada de texto con un placeholder de color y estilo personalizados.
     
-### Ejercicio # 5: Galería Responsiva con repeat()
-Diseña una galería de imágenes que muestre 2 imágenes por fila en dispositivos móviles y 4 en pantallas más grandes.
+### Ejercicio # 5: Párrafo con Primera Letra Destacada
+Crea un párrafo donde la primera letra sea más grande y tenga un color diferente al resto del texto.
 
-### Ejercicio # 6: Tablero de Juego con Grid Auto
-Diseña un tablero de juego 5x5 donde las celdas adicionales se creen automáticamente si se añaden más elementos.
+### Ejercicio # 6: Tarjeta de Producto con Efecto Hover
+Diseña una tarjeta de producto que muestre información adicional y cambie su apariencia al pasar el mouse por encima.
 
-### Ejercicio #7: Galería de Tarjetas con Justificación
-Crea una galería de tarjetas de productos donde las tarjetas estén distribuidas uniformemente en el espacio disponible.
+### Ejercicio #7: Menú de Navegación con Submenú
+Crea un menú de navegación horizontal donde los elementos del submenú aparezcan al pasar el mouse sobre el elemento principal.
 
-### Ejercicio # 8: Diseño de Revista con Gap
-Diseña un layout de revista digital con diferentes secciones y un espacio uniforme entre ellas.
+### Ejercicio # 8: Galería de Imágenes con Efecto de Superposición
+Diseña una galería de imágenes donde aparezca un texto descriptivo sobre la imagen al pasar el mouse por encima.
 
-### Ejercicio # 9: Dashboard con Alineación Personalizada
-Crea un dashboard con widgets de diferentes tamaños, alineando algunos al inicio, otros al centro y otros al final de sus celdas.
+### Ejercicio # 9: Formulario con Validación Visual
+Crea un formulario donde los campos cambien de apariencia según su estado (válido, inválido, enfocado).
 
-### Ejercicio # 10: Sitio web básico
-Diseña un sitio web básico con un header de 60px de alto, un sidebar de 200px de ancho, un área de contenido principal y un footer usando CSS Grid.
+> Pista: Utiliza las pseudoclases :valid, :invalid, y :focus para aplicar estilos diferentes a los campos del formulario.
 
-> Pista: Usa grid-template-areas para el layout general.
+### Ejercicio # 10: Artículo con Diseño Avanzado
+Diseña un artículo con una letra capital decorativa, citas destacadas y numeración de párrafos automática.
 
 **¡No te rindas!** Si encuentras algún obstáculo durante los ejercicios, no dudes en consultar recursos adicionales, buscar ayuda en la comunidad online o repasar los conceptos aprendidos en el curso. Recuerda que la práctica constante es la clave para dominar el lenguaje HTML y CSS.
 
